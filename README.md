@@ -1,7 +1,6 @@
-## Olá, seja bem-vindo! 👋
-# 📊 Portfólio de Análise de Dados
-Olá! Sou **Davi Gabriel Vargas**, profissional com experiência em operações corporativas, atendimento, gestão de incidentes, acompanhamento de SLA e melhoria de processos.
-Como parte da minha transição para a área de Análise de Dados, este portfólio reúne projetos desenvolvidos com **Excel e Power BI**, aplicando conceitos de indicadores, visualização de dados e análise de desempenho em contextos corporativos e gerenciais.
+## Olá👋
+# 📊 Seja bem-vindo ao meu Portfólio voltado a Dados.
+Aqui compartilho projetos desenvolvidos com Excel e Power BI, demonstrando a aplicação de indicadores, dashboards e análises voltadas ao acompanhamento de desempenho e apoio à tomada de decisão em ambientes corporativos.
 
 ## 👨‍💼 Sobre Mim
 
