@@ -1,6 +1,6 @@
 ## Olá👋
-# 📊 Seja bem-vindo ao meu Portfólio voltado a Dados.
-Aqui compartilho projetos desenvolvidos com Excel e Power BI, demonstrando a aplicação de indicadores, dashboards e análises voltadas ao acompanhamento de desempenho e apoio à tomada de decisão em ambientes corporativos.
+# 📊Seja bem-vindo ao meu Portfólio de Análise de Dados
+Aqui compartilho projetos desenvolvidos com Excel e Power BI, demonstrando a aplicação de indicadores, dashboards e análises voltadas ao acompanhamento de desempenho e ao apoio à tomada de decisão em ambientes corporativos.
 
 ## 👨‍💼 Sobre Mim
 
