@@ -2,6 +2,8 @@
 # 📊Seja bem-vindo ao meu Portfólio de Análise de Dados
 Aqui compartilho projetos desenvolvidos com Excel e Power BI, demonstrando a aplicação de indicadores, dashboards e análises voltadas ao acompanhamento de desempenho e ao apoio à tomada de decisão em ambientes corporativos.
 
+<img width="1536" height="1024" alt="Design sem nome" src="https://github.com/user-attachments/assets/01f0cd63-5a9f-4cf3-826c-a47a03651e20" />
+
 ## 👨‍💼 Sobre Mim
 
 Possuo experiência em ambientes corporativos de TI, atuando no tratamento e resolução de demandas, acompanhamento e intermediação de incidentes, orientação e treinamento de usuários, melhoria contínua de processos e identificação de oportunidades para aprimorar a experiência do cliente e do usuário (Customer Experience - CX).
