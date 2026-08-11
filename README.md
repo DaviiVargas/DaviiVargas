@@ -5,9 +5,12 @@ Como parte da minha transição para a área de Análise de Dados, este portfól
 
 ## 👨‍💼 Sobre Mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e pós-graduado em Análise de Dados. Ao longo da minha trajetória profissional, atuei em operações corporativas, acompanhamento de indicadores, gestão de demandas e suporte a processos de negócio.
-Essa experiência despertou meu interesse pela análise de dados aplicada à gestão, levando minha transição para uma atuação mais voltada à construção de indicadores, dashboards e acompanhamento de resultados que apoiem a tomada de decisão.
-Neste portfólio compartilho projetos desenvolvidos com Excel e Power BI, demonstrando conhecimentos em análise de dados, visualização de informações e desenvolvimento de soluções para contextos corporativos e gerenciais.
+Possuo experiência em ambientes corporativos de TI, atuando no tratamento e resolução de demandas, acompanhamento e intermediação de incidentes, orientação e treinamento de usuários, melhoria contínua de processos e identificação de oportunidades para aprimorar a experiência do cliente e do usuário (Customer Experience - CX).
+
+Ao longo da minha trajetória, desenvolvi forte afinidade com indicadores e análise de desempenho, utilizando dados para apoiar decisões e impulsionar melhorias operacionais. Também sou certificado em Lean Six Sigma Yellow Belt, fortalecendo minha visão orientada à eficiência, qualidade e resultados.
+
+Atualmente, busco oportunidades na área de Análise de Dados, com foco na construção de indicadores, relatórios gerenciais e dashboards que contribuam para a tomada de decisão e o acompanhamento de resultados.
+
 
 ## 🚀 Objetivo
 Demonstrar conhecimentos em:
