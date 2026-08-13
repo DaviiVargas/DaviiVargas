@@ -11,6 +11,21 @@ Ao longo da minha trajetória, desenvolvi forte afinidade com indicadores e aná
 
 Atualmente, busco oportunidades na área de Análise de Dados, com foco na construção de indicadores, relatórios gerenciais e dashboards que contribuam para a tomada de decisão e o acompanhamento de resultados.
 
+## 🎓 Formação
+
+- Pós-graduação em Análise de Dados
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
+
+## 📜 Certificações
+
+- Lean Six Sigma Yellow Belt
+- CPA-10 (ANBIMA)
+
+## 📖 Aprendizado Contínuo
+
+Busco manter meu desenvolvimento contínuo por meio de cursos voltados para análise de dados, Business Intelligence, Excel, Power BI, indicadores e visualização de dados.
+
+🔗 Vitrine Dev Alura (aqui está meu catalogo de cursos atualizados)
 [![Vitrine Dev](https://img.shields.io/badge/Alura-Vitrine%20Dev-051933?style=for-the-badge&logo=alura&logoColorcursos.alura.com.br/vitrinedev/vdavivargas)
 
 ## 🚀 Objetivo
