@@ -11,6 +11,7 @@ Ao longo da minha trajetória, desenvolvi forte afinidade com indicadores e aná
 
 Atualmente, busco oportunidades na área de Análise de Dados, com foco na construção de indicadores, relatórios gerenciais e dashboards que contribuam para a tomada de decisão e o acompanhamento de resultados.
 
+[![Vitrine Dev](https://img.shields.io/badge/Alura-Vitrine%20Dev-051933?style=for-the-badge&logo=alura&logoColorcursos.alura.com.br/vitrinedev/vdavivargas)
 
 ## 🚀 Objetivo
 Demonstrar conhecimentos em:
