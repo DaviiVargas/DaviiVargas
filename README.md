@@ -31,7 +31,7 @@ Meu catálogo de cursos, formações e atividades complementares em constante at
 
 ## 🛠 Skills
 
-🎯 Foco atual: Excel & Power BI (indicadores e dashboards corporativos)
+🎯 Foco atual: Excel & Power BI (indicadores e dashboards corporativos)  
 🔧 Também utilizo: Python (pandas) para limpeza e EDA, SQL para consultas
 
 ## 🚀 Objetivo
