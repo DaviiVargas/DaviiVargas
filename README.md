@@ -29,6 +29,11 @@ Busco manter meu desenvolvimento contínuo por meio de cursos voltados para aná
 Meu catálogo de cursos, formações e atividades complementares em constante atualização.
 📚 [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/vdavivargas)
 
+## 🛠 Skills
+
+🎯 Foco atual: Excel & Power BI (indicadores e dashboards corporativos)
+🔧 Também utilizo: Python (pandas) para limpeza e EDA, SQL para consultas
+
 ## 🚀 Objetivo
 Demonstrar conhecimentos em:
 
