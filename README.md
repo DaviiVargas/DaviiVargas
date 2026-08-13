@@ -43,4 +43,5 @@ Demonstrar conhecimentos em:
 ### 🍷 [Análise Estratégica da Vitivinicultura
 Análise de faturamento, produção e exportações do setor vitivinícola, explorando tendências históricas, mercados internacionais e projeções de crescimento.
 **Ferramentas:** Excel | Power BI
-https://medium.com/@davigabrielvargas/vitivinicultura-2008-2022-9cb8cce3ca98?postPublishedType=repub
+ - https://medium.com/@davigabrielvargas/vitivinicultura-2008-2022-9cb8cce3ca98?postPublishedType=repub
+[Projeto Vinicula]([https://cursos.alura.com.br/vitrinedev/vdavivargas](https://medium.com/@davigabrielvargas/vitivinicultura-2008-2022-9cb8cce3ca98?postPublishedType=repub))
