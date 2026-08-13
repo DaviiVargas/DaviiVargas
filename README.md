@@ -14,7 +14,7 @@ Atualmente, busco oportunidades na área de Análise de Dados, com foco na const
 ## 🎓 Formação
 
 - Pós-graduação em Análise de Dados
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
+- Graduado em Análise e Desenvolvimento de Sistemas (ADS)
 
 ## 📜 Certificações
 
@@ -26,7 +26,7 @@ Atualmente, busco oportunidades na área de Análise de Dados, com foco na const
 Busco manter meu desenvolvimento contínuo por meio de cursos voltados para análise de dados, Business Intelligence, Excel, Power BI, indicadores e visualização de dados.
 
 🔗 Vitrine Dev Alura (aqui está meu catalogo de cursos atualizados)
-[![Vitrine Dev](https://img.shields.io/badge/Alura-Vitrine%20Dev-051933?style=for-the-badge&logo=alura&logoColorcursos.alura.com.br/vitrinedev/vdavivargas)
+[[Vitrine Dev](https://img.shields.io/badge/Alura-Vitrine%20Dev-051933?style=for-the-badge&logo=alura&logoColorcursos.alura.com.br/vitrinedev/vdavivargas)
 
 ## 🚀 Objetivo
 Demonstrar conhecimentos em:
