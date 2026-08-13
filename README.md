@@ -40,3 +40,6 @@ Demonstrar conhecimentos em:
 - Suporte à tomada de decisão
 
 ## 🛠 Projetos (Em Contrução)
+### 🍷 Análise Estratégica da Vitivinicultura
+Análise de faturamento, produção e exportações.
+🔗 [Acessar Projeto](https://github.com/DaviiVargas/projeto---
