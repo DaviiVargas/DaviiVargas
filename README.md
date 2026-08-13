@@ -39,18 +39,4 @@ Demonstrar conhecimentos em:
 - Monitoramento de desempenho operacional
 - Suporte à tomada de decisão
 
-## 🛠 Ferramentas
-- Microsoft Excel
-- Tabelas Dinâmicas
-- PROCX
-- SOMASES
-- Fórmulas avançadas
-- Dashboards
-- Power Query
- 
-- Microsoft Power BI
-- Modelagem de dados
-- DAX
-- Dashboards interativos
-- Indicadores de desempenho
-- Visualização de dados
+## 🛠 Projetos (Em Contrução)
