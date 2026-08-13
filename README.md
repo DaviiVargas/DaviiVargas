@@ -42,4 +42,4 @@ Demonstrar conhecimentos em:
 ## 🛠 Projetos (Em Contrução)
 ### 🍷 Análise Estratégica da Vitivinicultura
 Análise de faturamento, produção e exportações.
-🔗 [Acessar Projeto](https://github.com/DaviiVargas/projeto---
+🔗 [Acessar Projeto](https://github.com/DaviiVargas/Projetos
