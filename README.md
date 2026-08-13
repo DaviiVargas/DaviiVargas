@@ -26,7 +26,7 @@ Atualmente, busco oportunidades na área de Análise de Dados, com foco na const
 Busco manter meu desenvolvimento contínuo por meio de cursos voltados para análise de dados, Business Intelligence, Excel, Power BI, indicadores e visualização de dados.
 
 🔗 Vitrine Dev Alura (aqui está meu catalogo de cursos atualizados)
-[[Vitrine Dev](https://img.shields.io/badge/Alura-Vitrine%20Dev-051933?style=for-the-badge&logo=alura&logoColorcursos.alura.com.br/vitrinedev/vdavivargas)
+📚 [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/vdavivargas)
 
 ## 🚀 Objetivo
 Demonstrar conhecimentos em:
