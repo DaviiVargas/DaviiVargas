@@ -1,51 +1,37 @@
-## Olá👋
-# 📊Seja bem-vindo ao meu Portfólio de Análise de Dados
-Aqui compartilho projetos desenvolvidos com Excel e Power BI, demonstrando a aplicação de indicadores, dashboards e análises voltadas ao acompanhamento de desempenho e ao apoio à tomada de decisão em ambientes corporativos.
+<h1 align="center">Olá, eu sou o Davi 👋</h1> <h3 align="center">Em transição para Análise de Dados & BI | Foco em Power BI, SQL, Modelagem, dbt & BigQuery</h3> <p align="center"> <img src="https://img.shields.io/badge/SQL-Intermediário-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-Intermediário-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Modelagem_de_Dados-Em_estudo-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/dbt-Em_estudo-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-Em_estudo-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/> </p>
+👨‍💼 Sobre mim
 
+Profissional com experiência em ambientes corporativos de TI, atuando no tratamento de demandas, acompanhamento de incidentes, treinamento de usuários e melhoria contínua de processos. Certificado em Lean Six Sigma Yellow Belt, com forte orientação a eficiência, qualidade e resultados.
 
-## 👨‍💼 Sobre Mim
+Atualmente em transição de carreira para Análise de Dados / Business Intelligence, construindo conhecimento técnico em SQL, modelagem dimensional, dbt e BigQuery, com foco em transformar dados em indicadores e dashboards que apoiem decisões de negócio.
 
-Possuo experiência em ambientes corporativos de TI, atuando no tratamento e resolução de demandas, acompanhamento e intermediação de incidentes, orientação e treinamento de usuários, melhoria contínua de processos e identificação de oportunidades para aprimorar a experiência do cliente e do usuário (Customer Experience - CX).
+🎯 Objetivo atual
 
-Ao longo da minha trajetória, desenvolvi forte afinidade com indicadores e análise de desempenho, utilizando dados para apoiar decisões e impulsionar melhorias operacionais. Também sou certificado em Lean Six Sigma Yellow Belt, fortalecendo minha visão orientada à eficiência, qualidade e resultados.
+Atuar como Analista de BI Jr, aplicando:
 
-Atualmente, busco oportunidades na área de Análise de Dados, com foco na construção de indicadores, relatórios gerenciais e dashboards que contribuam para a tomada de decisão e o acompanhamento de resultados.
-
-## 🎓 Formação
-
-- Pós-graduação em Análise de Dados
-- Graduado em Análise e Desenvolvimento de Sistemas (ADS)
-
-## 📜 Certificações
-
-- Lean Six Sigma Yellow Belt
-- CPA-10 (ANBIMA)
-
-## 📖 Aprendizado Contínuo
-
-Busco manter meu desenvolvimento contínuo por meio de cursos voltados para análise de dados, Business Intelligence, Excel, Power BI, indicadores e visualização de dados.
-
-🔗 Vitrine Dev Alura
-Meu catálogo de cursos, formações e atividades complementares em constante atualização.
-📚 [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/vdavivargas)
-
-## 🛠 Skills
-
-🎯 Foco atual: Excel & Power BI (indicadores e dashboards corporativos)  
-🔧 Também utilizo: Python (pandas) para limpeza e EDA, SQL para consultas
-
-## 🚀 Objetivo
-Demonstrar conhecimentos em:
-
-- Análise de dados
-- Construção de indicadores (KPIs)
-- Dashboards gerenciais
-- Tratamento e organização de dados
-- Monitoramento de desempenho operacional
-- Suporte à tomada de decisão
-
-## 🛠 Projetos (Em Contrução)
-### 🍷 Análise Estratégica da Vitivinicultura
-Análise de faturamento, produção e exportações do setor vitivinícola, explorando tendências históricas, mercados internacionais e projeções de crescimento.
-**Ferramentas:** Excel | Power BI
-- [Projeto Vinicula](https://medium.com/@davigabrielvargas/vitivinicultura-2008-2022-9cb8cce3ca98?postPublishedType=repub)
+🗄️ Consultas e manipulação de dados com SQL
+📊 Construção de dashboards e storytelling em Power BI
+🧱 Modelagem dimensional (esquema estrela, fato/dimensão)
+🔄 Transformação de dados com dbt
+☁️ Armazenamento e consulta em BigQuery
+🛠️ Stack & Nível atual
+Área	Nível
+SQL	🟢 Intermediário
+Power BI	🟢 Intermediário
+Modelagem de Dados	🟡 Em estudo
+dbt	🟡 Em estudo
+BigQuery	🟡 Em estudo
+Excel	🟢 Avançado
+📂 Projetos em destaque
+<!-- Dica: para cada projeto, crie um repositório próprio com README explicando: Contexto → Fonte dos dados → Ferramentas → Decisões técnicas → Insights → Prints/GIF do dashboard -->
+🍷 Análise Estratégica da Vitivinicultura — Faturamento, produção e exportações do setor vitivinícola. Excel Power BI 📄 Artigo no Medium
+🚧 Novo projeto em construção: pipeline SQL → Power BI (em breve)
+🎓 Formação & Certificações
+🎓 Pós-graduação em Análise de Dados
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS)
+📜 Lean Six Sigma Yellow Belt
+📜 CPA-10 (ANBIMA)
+📈 Estatísticas do GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DaviiVargas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com?user=DaviiVargas&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/> </p>
+🌐 Conecte-se comigo
+<p align="left"> <a href="https://www.linkedin.com/in/davi-gabriel-vargas/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://cursos.alura.com.br/vitrinedev/vdavivargas" target="_blank"> <img src="https://img.shields.io/badge/Vitrine_Dev_Alura-14A0CE?style=for-the-badge&logo=alura&logoColor=white"/> </a> </p> <p align="center"><i>Em constante aprendizado — próxima atualização: modelagem dimensional, dbt e BigQuery 🚀</i></p>
