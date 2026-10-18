@@ -7,4 +7,10 @@
 #inicial curso
 <img width="1313" height="738" alt="image" src="https://github.com/user-attachments/assets/65b3e1f3-5000-4ca6-9482-6de758c936ea" />
 
+#filaCSC
+#Atual
+<img width="958" height="535" alt="imggithubatual" src="https://github.com/user-attachments/assets/9ebac0de-ee3f-46e1-a9d5-3079199c70fa" />
+
+#historico
+<img width="1437" height="801" alt="imggithubhistorico" src="https://github.com/user-attachments/assets/dfc60360-6539-43d9-a8ea-c8f6f8f61d47" />
 
